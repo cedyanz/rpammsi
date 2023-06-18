@@ -1,0 +1,6 @@
+.gradient-overlay {
+    height: 100%;
+    background-image: linear-gradient(to bottom, transparent, rgb(255, 254, 254));
+
+  }
+  
